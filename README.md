@@ -50,7 +50,7 @@
 ---
 
 ## 📫 Connect
-[![Email](https://img.shields.io/badge/Email-economylee99%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:asdd1379@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-asdd1379%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:asdd1379@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-44k%2B%20Community-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/economylee99)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/economylee99)
 
