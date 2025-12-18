@@ -1,19 +1,9 @@
-# Hi, I'm Geonwoo Lee 👋
+# Bro nice to meet you
 
-⚡ Solving inefficiencies in financial markets with technology  
-📜 Patent holder | 👥 44k+ community | 🚀 Building FinTech MVPs
-
----
-
-## 🚀 About Me
-- 🎓 CS Junior @ Kookmin University, Seoul  
-- 🐍 Heavy Python user for finance data parsing & automation  
-- 🦀 Exploring Rust for trading engine prototypes  
-- 🌐 Learning TypeScript/Next.js for web-based MVPs  
-- 💼 Freelance experience: built and deployed a **production-level SaaS** (MoneyLab) with subscription & payments  
+Solving inefficiencies in financial markets with technology  
+Patent holder | 44k+ community | Building FinTech MVPs
 
 ---
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
