@@ -30,8 +30,8 @@ Patent holder | 44k+ community | Building FinTech MVPs
 - 📊 **Stock Search Engine (MVP)**  
   Personal startup project. AI-powered company search & analysis platform (in progress).  
 
-- 🦀 **Rust Learning**  
-  Repo for Rust practice (data structures, trading engine concepts).  
+- 🦀 **Knowledge Graph**  
+  (Secret) Building Financial Ontology and Knowledge Graph
 
 ---
 
