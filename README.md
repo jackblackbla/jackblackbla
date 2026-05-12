@@ -41,7 +41,7 @@ Chrome CDP scraping · multi-source polling · 20+ scheduled jobs in production
 ### Subscription FinTech SaaS (Freelance, Operating)
 1인 풀스택 — 기획·프론트·백·DB·봇 자동화 총괄.
 
-- **월매출 0원 → 2,500만 원**
+- **월매출 0원 → 3,500만 원**
 - OAuth · 정기결제 · 어드민 대시보드
 - 메신저 봇 기반 회원 출입·관리 자동화
 
