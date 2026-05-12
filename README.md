@@ -32,7 +32,7 @@ Chrome CDP scraping · multi-source polling · 20+ scheduled jobs in production
 - Stack: Django · Next.js · PostgreSQL · Celery · Chrome CDP · Docker
 
 ### Family Office — Internal Data Pipeline + MCP Server (B2B)
-중견 자산운용 클라이언트 사내 AI 인프라 구축.
+소규모 자산운용 클라이언트 사내 AI 인프라 구축.
 
 - 실적관리 데이터 추출: **2주+ → 10초**
 - 사내 구성원이 자연어로 투자 데이터 즉시 추출
