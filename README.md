@@ -2,7 +2,7 @@
 
 > Building AI-native data infrastructure for finance.
 
-🔧 Independent builder · AI/data infra for SMBs and financial domain
+🔧 Independent builder · AI/data infra for SMBs and financial domain  
 📈 Patent holder · 40k+ organic community
 
 ---
@@ -30,6 +30,14 @@ Chrome CDP scraping · multi-source polling · 20+ scheduled jobs in production
 - **MCP 서버 60+ 툴** — LLM 에이전트가 도메인 데이터를 직접 호출
 - **AI 파이프라인**: HDBSCAN 클러스터링 기반 테마 자동 발굴, 위키 자동 생성·갱신
 - Stack: Django · Next.js · PostgreSQL · Celery · Chrome CDP · Docker
+
+### Bulgasal Project
+Evidence-first financial research infrastructure project spanning filings, retrieval, entity resolution, and agent-ready data systems.
+
+- **bullga.ai**: SEC filing research workflow with evidence-bound retrieval and provenance-first GraphRAG
+- **Shared design goal**: every important claim should be traceable to a source span, entity, and document structure
+- **Core components**: hierarchy-aware parsing, staged entity resolution, evidence schema design, and agent-facing retrieval interfaces
+- **Focus**: building financial AI systems that are auditable, structured, and usable in real research workflows
 
 ### Family Office — Internal Data Pipeline + MCP Server (B2B)
 소규모 자산운용 클라이언트 사내 AI 인프라 구축.
