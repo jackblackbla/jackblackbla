@@ -61,3 +61,7 @@ Financial Ontology + Knowledge Graph 구축 중.
 ## 📫 Connect
 
 asdd1379@gmail.com
+
+---
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/jackblackbla/svg?view=3d&theme=light&compact=1)](https://tokscale.ai/u/jackblackbla)
